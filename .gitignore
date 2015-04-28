@@ -1,3 +1,9 @@
+##############################################################################
+### NB:                                                                    ###
+### All system-specific files (e.g., vim swap files or other editor or OS  ###
+### files) should be placed in your global ignores, not in this file.      ###
+##############################################################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -55,3 +61,4 @@ docs/_build/
 
 # PyBuilder
 target/
+
